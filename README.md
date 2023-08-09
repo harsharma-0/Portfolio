@@ -101,4 +101,4 @@ This project is licensed under the [MIT License](LICENSE), allowing you to freel
 
 Thank you for exploring the Harsh Sharma Portfolio Website! We hope you enjoy discovering Harsh's skills and creative contributions to the world of web design and development. If you have any questions or feedback, feel free to reach out.
 
-*This README was last updated on [Date].*
+*This README was last updated on [08/09/2023].*
